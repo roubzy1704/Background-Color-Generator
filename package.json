@@ -1,0 +1,19 @@
+{
+  "name": "background-color-generator",
+  "version": "1.0.0",
+  "description": "background color generator",
+  "main": "scriptBackgroundGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roubzy1704/Background-Color-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roubzy1704/Background-Color-Generator/issues"
+  },
+  "homepage": "https://github.com/roubzy1704/Background-Color-Generator#readme"
+}
