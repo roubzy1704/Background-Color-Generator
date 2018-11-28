@@ -1,0 +1,68 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, #ff0000 , #00ff00); /* Standard syntax */
+}
+
+
+h1 {
+    font: 600 3.0em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    padding-bottom: 30px;
+}
+
+
+.color1, .color2{
+    border-radius: 130px;
+    padding: 1px 5px 1px 5px;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+}
+
+
+h5{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 50px;
+}
+
+
+.button{
+    cursor: pointer;
+    text-transform: uppercase;
+    color: white;
+    background-color: #0A95BC;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 50px;
+}
+
+
+.instruction{
+    font-size: 15px;
+    color: #0A95BC;
+    letter-spacing: .2em;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+p2{
+    display:inline-block;
+    margin-bottom: 250px;
+}
+
+
+.copyright{
+    color: white;
+    text-transform: none;
+    letter-spacing: .1em;
+}
